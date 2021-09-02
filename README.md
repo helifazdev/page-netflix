@@ -6,7 +6,7 @@ A plataforma incentiva que nós personalizemos o projeto a nosso gosto e eu ache
 
 
 
-Link do teste de demonstração do site:
+Link do teste de demonstração do site:https://helifazdev.github.io/page-netflix/
 
 
 
